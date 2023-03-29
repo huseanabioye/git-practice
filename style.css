@@ -1,0 +1,11 @@
+body{
+    background-color: red;
+}
+h1{
+    color: white;
+    background-color: #000;
+}
+h2{
+    background-color: tomato;
+    color: rgb(80, 47, 47);
+}
